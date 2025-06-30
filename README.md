@@ -5,6 +5,7 @@
 Make sure a python environment with the following libraries is installed prior to running the code:
 
 python 3.10
+ipykernel
 scipy
 numpy
 matplotlib
